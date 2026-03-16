@@ -107,19 +107,6 @@ extension-devtools/
 
 ---
 
-## 🖼️ Gerando os Ícones
-
-Os ícones da extensão são gerados automaticamente via script. Para regenerá-los:
-
-```bash
-npm install
-npm run generate-icons
-```
-
-Os arquivos serão gerados em `public/icons/`.
-
----
-
 ## 📝 Licença
 
 MIT
